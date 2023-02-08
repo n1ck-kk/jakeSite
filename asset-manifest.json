@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/jakeSite/static/css/main.073c9b0a.css",
-    "main.js": "/jakeSite/static/js/main.0f7b65d9.js",
+    "main.css": "/jakeSite/static/css/main.e6c13ad2.css",
+    "main.js": "/jakeSite/static/js/main.14e60915.js",
     "static/js/787.a504828a.chunk.js": "/jakeSite/static/js/787.a504828a.chunk.js",
-    "static/media/logo.svg": "/jakeSite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jakeSite/index.html",
-    "main.073c9b0a.css.map": "/jakeSite/static/css/main.073c9b0a.css.map",
-    "main.0f7b65d9.js.map": "/jakeSite/static/js/main.0f7b65d9.js.map",
+    "main.e6c13ad2.css.map": "/jakeSite/static/css/main.e6c13ad2.css.map",
+    "main.14e60915.js.map": "/jakeSite/static/js/main.14e60915.js.map",
     "787.a504828a.chunk.js.map": "/jakeSite/static/js/787.a504828a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0f7b65d9.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.14e60915.js"
   ]
 }
